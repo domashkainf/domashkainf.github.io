@@ -1,0 +1,201 @@
+body {
+	background: blue;
+	margin: 0;
+	padding: 0;
+}
+
+#header {
+	height: 20%;
+	width: 100%;
+	text-align: center;
+	background: blue;
+	color: white;
+}
+
+#img {
+	height: 80%;
+	width: 100%;
+}
+
+#str1 {
+	height: 24%;
+	width: 97.5%;
+	margin: 0 auto 0;
+}
+
+#str2 {
+	height: 24%;
+	width: 97.5%;
+	margin: 0 auto 0;
+}
+
+#str3 {
+	height: 24%;
+	width: 97.5%;
+	margin: 0 auto 0;
+}
+
+#str4 {
+	height: 24%;
+	width: 97.5%;
+	margin: 0 auto 0;
+}
+
+#img1 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img2 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img3 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img4 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img5 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img6 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img7 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img8 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img9 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img10 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img11 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img12 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img13 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img14 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img15 {
+	background: red;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+#img16 {
+	background: blue;
+	height: 100%;
+	width: 25%;
+	float: left;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+img:hover {
+	transform: scale(1.1 , 1.2);
+}
+
+.menu , a{
+	margin: auto;
+	width:80px;
+	height: 100px;
+	text-decoration: none;
+	color:white;
+}
+
+#spisok {
+	display: none;
+}
+
+#menu {
+	background: #FF9800;
+	width: 80px;
+	height: 18px;
+	margin: auto;
+	border: 2px solid black;
+	border-radius: 10px;
+	cursor:pointer;
+}
+
+.spisok {
+	background: #FF9800;
+	width: 80px;
+	height: 18px;
+	margin: auto;
+	border-top: 0px;
+	border-left: 2px;
+	border-right: 2px;
+	border-bottom: 2px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color:black;
+	cursor:pointer;
+
+

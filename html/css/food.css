@@ -1,0 +1,237 @@
+body {
+	margin:0;
+	padding:0;
+	background:#EDEEF0;
+}
+
+.header {
+	background:blue;
+	width:100%;
+	height:350;
+	position:relative;
+	color:white;
+}
+
+.content {
+	background:white;
+	min-height:800px;
+	width:60%;
+	margin:auto;
+	position:relative;
+	color:black;
+}
+
+footer {
+	background:blue;
+	height:170;
+	width:100%;
+	position:relative;
+	color:white;
+}
+
+#slider1 {
+	position:relative;
+	height:68;
+	width:268;	
+	margin:2 auto;
+	border:3px solid black;
+	overflow:hidden;
+	border-radius:15px;
+	margin-top:0;
+}
+
+#line1 {
+	position:relative;
+	height:68;
+	width:676;
+	left:0;
+	transition:all ease 1s;
+	overflow:hidden;
+}
+
+#spisokMenu {
+	background:#FF9800;
+	text-align:center;
+	width:80px;
+	height: 18px;
+	color:menu;
+	cursor:pointer;
+	border:2px solid black;
+	border-radius:10px;
+}
+
+#spisok {	
+	display:none;
+	width:50px;
+	text-align:center;
+}
+
+.n {
+	background: #FF9800;
+	width: 80px;
+	height: 18px;
+	margin: auto;
+	border-top: 0px;
+	border-left: 2px;
+	border-right: 2px;
+	border-bottom: 2px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color:black;
+	cursor:pointer;
+}
+
+.aligner {
+	position:relative;
+	height:101;
+	width:80;
+	margin:auto;
+	transform:translateY(140%);
+	position:relative;
+}
+
+a {
+	text-decoration:none;
+	color:white;
+}
+
+.img {
+	width:600;
+	height:169;
+	position:absolute;
+	transform:translateY(55%);
+}
+
+.imgPos {
+	margin-left:250;
+}
+
+#apple {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#orange {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#banana {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#strawberry {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#chicken {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#fish {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#eggs {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#egg {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#dill {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#pepper {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#tomato {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#cucumber {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#millet {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#rice {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#oatmeal {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+#buckwheat {
+	width: 100%;
+	min-height: 300px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
